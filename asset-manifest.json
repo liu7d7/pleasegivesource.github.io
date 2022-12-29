@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6abaa585.css",
-    "main.js": "/static/js/main.5938853b.js",
-    "static/js/787.f83d2408.chunk.js": "/static/js/787.f83d2408.chunk.js",
-    "index.html": "/index.html",
-    "main.6abaa585.css.map": "/static/css/main.6abaa585.css.map",
-    "main.5938853b.js.map": "/static/js/main.5938853b.js.map",
-    "787.f83d2408.chunk.js.map": "/static/js/787.f83d2408.chunk.js.map"
+    "main.css": "/french-thing/static/css/main.5257aa13.css",
+    "main.js": "/french-thing/static/js/main.f33ddd7f.js",
+    "static/js/787.f83d2408.chunk.js": "/french-thing/static/js/787.f83d2408.chunk.js",
+    "index.html": "/french-thing/index.html",
+    "main.5257aa13.css.map": "/french-thing/static/css/main.5257aa13.css.map",
+    "main.f33ddd7f.js.map": "/french-thing/static/js/main.f33ddd7f.js.map",
+    "787.f83d2408.chunk.js.map": "/french-thing/static/js/787.f83d2408.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6abaa585.css",
-    "static/js/main.5938853b.js"
+    "static/css/main.5257aa13.css",
+    "static/js/main.f33ddd7f.js"
   ]
 }
